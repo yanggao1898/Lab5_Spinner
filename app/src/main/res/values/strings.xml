@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab5_Spinner</string>
+
+    <string name="tip_prompt">Choose tip amount</string>
+    <string-array name="tip_arrays">
+        <item>Large - 25%</item>
+        <item>Largeish - 20%</item>
+        <item>Medium - 15%</item>
+        <item>Bad - 10%</item>
+    </string-array>
+</resources>
